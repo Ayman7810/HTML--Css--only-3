@@ -1095,5 +1095,9 @@ form i {
 .footer .container .copyright span{
    color: var(--mine--color);
 }
+
+.footer img {
+    width: 200px;
+}
 /* end footer   */
 
