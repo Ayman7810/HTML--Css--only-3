@@ -335,6 +335,7 @@ border: solid 1px var(--mine--color);
     padding-top: 130px;
     height: 70vh;
     background-image: url("../images/design-features.jpg");
+    background-size: cover;
     overflow: hidden;
     position: relative;
   
@@ -538,6 +539,7 @@ border: solid 1px var(--mine--color);
 /* Start Stats  */
 .stats {
     background-image: url("../images/stats.png");
+    background-size: cover;
     position: relative;
     height: 50vh;
     display: flex;
